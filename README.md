@@ -1,6 +1,7 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
 Name : Ipsa Manhas
+
 ccid : imanhas
 
 ## References and Resources
