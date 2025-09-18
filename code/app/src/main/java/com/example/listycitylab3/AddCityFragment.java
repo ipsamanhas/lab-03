@@ -54,7 +54,6 @@ public class AddCityFragment extends DialogFragment {
         EditText editCity = view.findViewById(R.id.edit_text_city_text);
         EditText editProv = view.findViewById(R.id.edit_text_province_text);
 
-        // pull possible city to edit from args into the field
         editingCity = null;
         Bundle args = getArguments();
         if (args != null) {
